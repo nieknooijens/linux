@@ -1588,6 +1588,12 @@
 #define IDS_CM31A_PID			0x13A3
 
 /*
+ * Omron corporation (https://www.omron.com/).
+ */
+ #define OMRON_VID			0x0590
+ #define OMRON_CS1W_CIF31_PID		0x00b2
+
+/*
  * U-Blox products (http://www.u-blox.com).
  */
 #define UBLOX_VID			0x1546
